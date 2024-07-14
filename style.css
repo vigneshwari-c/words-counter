@@ -1,0 +1,13 @@
+.outer{
+    width:500px;
+   /* height:px;*/
+    margin:20% 32%;
+    background-color: blueviolet;
+    padding:10px;
+    border : 10px solid black;
+}
+body{
+    text-align:center;
+    background-color: azure;
+    background-attachment: fixed;
+}
